@@ -1,5 +1,7 @@
 # console.callstack
 
+> Deprecated! Use `console.trace` instead
+
 Prints a snapshot of the callstack at the time of the call
 
 ### Getting started
